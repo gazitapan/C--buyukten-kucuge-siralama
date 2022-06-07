@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gazit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gazit\\.nuget\\packages"
+    ]
+  }
+}
